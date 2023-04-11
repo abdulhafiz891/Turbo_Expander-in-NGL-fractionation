@@ -21,4 +21,3 @@ The result from the simulation will give the type and size of the compressor tha
 
 # Made by :
 1. Abdul_Hafiz
-2. Surayya
